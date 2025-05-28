@@ -1,13 +1,11 @@
 body{
-    margin: 0; 
+    margin: 0px; 
 }
 
 header{
     background-image: url(./images/pattern.png);
-    margin: 0px;
     background-color: #03a9f4;
-    height: 180px;
-    
+    height: 180px;   
 }
 
 #booleaner{
@@ -15,5 +13,8 @@ header{
     margin-top: 80px;
     margin-left: 15px;
     margin-top: 115px;
-    float: left;
+}
+
+main{
+    margin: 8px;
 }
