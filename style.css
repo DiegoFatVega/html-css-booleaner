@@ -16,7 +16,8 @@ header {
     margin-top: 115px;
 }
 
-main {
+main,
+footer {
     margin: 8px;
 }
 
@@ -39,4 +40,8 @@ td {
 
 .blu {
     background-color: hsla(194, 94%, 56%, 0.562);
+}
+
+.grey{
+    color: rgb(95, 94, 94);
 }
