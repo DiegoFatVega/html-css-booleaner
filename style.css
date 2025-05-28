@@ -38,10 +38,23 @@ td {
     text-align: left;
 }
 
+
 .blu {
     background-color: hsla(194, 94%, 56%, 0.562);
 }
 
-.grey{
+.grey {
     color: rgb(95, 94, 94);
+}
+
+.container {
+    position: relative;
+    margin-bottom: 18px;
+}
+
+.white-text-over {
+    position: absolute;
+    top: 1px;
+    left: 1rem;
+    color: white;
 }
