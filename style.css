@@ -1,20 +1,42 @@
-body{
-    margin: 0px; 
+body {
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-header{
+header {
     background-image: url(./images/pattern.png);
     background-color: #03a9f4;
-    height: 180px;   
+    height: 180px;
 }
 
-#booleaner{
-    height:  60px;
+#booleaner {
+    height: 60px;
     margin-top: 80px;
     margin-left: 15px;
     margin-top: 115px;
 }
 
-main{
+main {
     margin: 8px;
+}
+
+table {
+    border-collapse: collapse;
+    table-layout: fixed;
+    width: 100%;
+}
+
+thead {
+    background-color: hsl(194, 100%, 50%);
+    color: white;
+    text-align: left;
+}
+
+th,
+td {
+    text-align: left;
+}
+
+.blu {
+    background-color: hsla(194, 94%, 56%, 0.562);
 }
