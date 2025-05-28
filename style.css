@@ -1,0 +1,19 @@
+body{
+    margin: 0; 
+}
+
+header{
+    background-image: url(./images/pattern.png);
+    margin: 0px;
+    background-color: #03a9f4;
+    height: 180px;
+    
+}
+
+#booleaner{
+    height:  60px;
+    margin-top: 80px;
+    margin-left: 15px;
+    margin-top: 115px;
+    float: left;
+}
