@@ -1,4 +1,4 @@
-/*region #common*/
+/*#region common*/
 body {
     margin: 0px;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -32,7 +32,7 @@ td {
     text-align: left;
 }
 
-/* #end region common */
+/* #endregion common */
 
 /* #region Header */
 #booleaner {
@@ -41,7 +41,8 @@ td {
     margin-left: 15px;
     margin-top: 115px;
 }
-/* #end region Header */
+
+/* #endregion Header */
 
 /* #region main*/
 .blu {
@@ -56,7 +57,8 @@ td {
     position: relative;
     margin-bottom: 18px;
 }
-/* #end region main*/
+
+/* #endregion main*/
 
 /*#region footer */
 .white-text-over {
@@ -66,4 +68,4 @@ td {
     color: white;
 }
 
-/* #end region footer */
+/* #endregion footer */
